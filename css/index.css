@@ -1,0 +1,39 @@
+#main{
+	position: relative;
+	background-color: #45b97c;
+	overflow: hidden;
+}
+#main-game{
+	
+	float: left;
+	background-color: black;
+	height: 100%;
+	width:65%;
+	
+}
+#main-text{
+	float: left;
+	display: inline;
+	height: 80%;
+	width:20%;
+	background-color: #f6f5ec;
+}
+#select-round{
+               position: absolute;
+               top:90%;
+               left: 85%;
+	height: 10%;
+	width:100px;
+	background-color: #34f0ec;
+}
+#select-round p{
+               padding: 2px;
+               padding-left: 20px;
+}
+#start{
+	position: absolute;
+}
+.direction{
+	background-color: black;
+	position: absolute;;
+}
